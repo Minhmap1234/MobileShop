@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MobileShopOnline\\MobileShopOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|d:\\mobileshoponline\\mobileshoponline\\mobileshoponline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\admincategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\admincategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|D:\\MobileShopOnline\\MobileShopOnline\\mobileshoponline\\areas\\admin\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5D1DA40-09CB-46F0-BF97-D1CE20F96D1D}|MobileShopOnline\\MobileShopOnline.csproj|solutionrelative:mobileshoponline\\areas\\admin\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-26T01:14:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:38.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T01:14:40.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Content\\admin.css",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Content\\admin.css",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Content\\admin.css",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Content\\admin.css",
+              "ViewState": "AQIAABkBAAAAAAAAAAAcwCEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-09-26T01:14:40.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-09-26T01:14:40.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "MobileShopOnline\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "D:\\MobileShopOnline\\MobileShopOnline\\MobileShopOnline\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "MobileShopOnline\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T01:14:40.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
